@@ -1,7 +1,5 @@
 # Data-Mining
 
-The ads24x7 is a Digital Marketing company which has now got seed funding of $10 Million. 
-They are expanding their wings in Marketing Analytics. They collected data from their 
-Marketing Intelligence team and now wants you (their newly appointed data analyst) to 
-segment type of ads based on the features provided. Use Clustering procedure to segment 
-ads into homogeneous groups
+The data collected has many variables which makes it difficult to find useful details without using Data Science Techniques. The very first step is to perform EDA and then performing Clustering, PCA as per the requirements in the data. 1. Digital Marketing Advertisement Data Segmentation using clustering techniques. 2. Identify Optimum Principal Components that explains the most variance in the Primary Census data.
+
+Skills and Tools Used: EDA , Clustering , PCA , Data Mining , Silhouette Score , Segmentation
